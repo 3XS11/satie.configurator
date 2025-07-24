@@ -6,7 +6,7 @@ from reportlab.pdfgen import canvas
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 from reportlab.lib.utils import ImageReader
-
+#V1.28
 # Charger les traduction depuis un fichier excel 
 @st.cache_data  
 def charger_traductions():
